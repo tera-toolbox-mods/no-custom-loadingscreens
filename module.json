@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": false,
     "name": "no-custom-loadingscreens",
-    "description": "Disable custom loading screens supplied by the game's publishers and instead show only default ones."
+    "description": "Disable custom loading screens supplied by the game's publishers and instead show only default ones.",
     "author": "Caali",
     "version": "1.0",
 	"servers": ["https://raw.githubusercontent.com/caali-hackerman/no-custom-loadingscreens/master/"]
