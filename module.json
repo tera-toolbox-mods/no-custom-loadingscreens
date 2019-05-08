@@ -1,8 +1,7 @@
 {
-    "disableAutoUpdate": false,
     "name": "no-custom-loadingscreens",
     "description": "Disable custom loading screens supplied by the game's publishers and instead show only default ones.",
     "author": "Caali",
     "version": "1.0",
-	"servers": ["https://raw.githubusercontent.com/caali-hackerman/no-custom-loadingscreens/master/"]
+	"servers": ["https://raw.githubusercontent.com/tera-toolbox-mods/no-custom-loadingscreens/master/"]
 }
