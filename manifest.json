@@ -1,7 +1,7 @@
 {
 	"files": {
-		"index.js": "79bfba579fb72b9a71ba22722233cdf7c11439ffe50b7630c06d79b6f10f43da",
-		"module.json": "1e81fb5d22bae76edf371a4c27750ffd5eae783e11fe348bbfd01ab3d6b6586c"
+		"index.js": "3c8260bf091402af0b361073b1dc9f5382c6e1fd0c73d5ed8b7a2cbb1a5b82a0",
+		"module.json": "c7042c5691dc44b766fd71f1ab9c3a48828cbdcd9d601b6a8fd193a2839a2044"
     },
 	"defs": {
 		"S_LOADING_SCREEN_CONTROL_INFO": 2

@@ -1,4 +1,4 @@
-module.exports = function NoCustomLoadingScreens(mod) {
+exports.NetworkMod = function(mod) {
     mod.hook('S_LOADING_SCREEN_CONTROL_INFO', 2, event => {
         if (event.enableCustom) {
             event.enableCustom = false;
